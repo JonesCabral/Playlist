@@ -1,6 +1,13 @@
 #EXTM3U
 
-# Rádio Verdes Mares 92.5 FM Verdinha
+#EXTINF: 1, Rádio Verdes Mares 92.5 FM Verdinha
 https://5a1c76baf08c0.streamlock.net/z18-live/stream/playlist.m3u8
 
-#
+#EXTINF: 2, Rádio Liderança 105.9 FM
+http://stream.notoris.com.br:8472/stream?1713797184467
+
+#EXTINF: 3, Rádio Nativa 95.3 FM
+https://27583.live.streamtheworld.com/NATIVA_SPAAC.aac?dist=radios.com.br&1713797232212
+
+#EXTINF: 4, Rádio Cultura 102.1 FM
+http://stream.notoris.com.br:8476/stream?1713797339559
